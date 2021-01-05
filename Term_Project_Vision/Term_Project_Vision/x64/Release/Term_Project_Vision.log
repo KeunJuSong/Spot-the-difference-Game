@@ -1,0 +1,11 @@
+﻿  Vision_Term_Projects.cpp
+c:\users\kjson\desktop\skjbox\bs(korea polytechnic university)\3학년 2학기\임베디드비전시스템\(최종)term_project_틀린그림찾기\term_project_vision\term_project_vision\vision_term_projects.cpp(195): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  c:\users\kjson\desktop\skjbox\bs(korea polytechnic university)\3학년 2학기\임베디드비전시스템\(최종)term_project_틀린그림찾기\term_project_vision\term_project_vision\vision_term_projects.cpp(195): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\kjson\desktop\skjbox\bs(korea polytechnic university)\3학년 2학기\임베디드비전시스템\(최종)term_project_틀린그림찾기\term_project_vision\term_project_vision\vision_term_projects.cpp(203): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kjson\desktop\skjbox\bs(korea polytechnic university)\3학년 2학기\임베디드비전시스템\(최종)term_project_틀린그림찾기\term_project_vision\term_project_vision\vision_term_projects.cpp(225): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  419 of 424 functions (98.8%) were compiled, the rest were copied from previous compilation.
+    26 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Term_Project_Vision.vcxproj -> C:\Users\kjson\Desktop\SKJBox\BS(Korea Polytechnic University)\3학년 2학기\임베디드비전시스템\(최종)Term_Project_틀린그림찾기\Term_Project_Vision\x64\Release\Term_Project_Vision.exe
