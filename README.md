@@ -9,7 +9,7 @@
 
 ## **Overview**
 * Image application game using OpenCV
-* The main code function in this game is contours (See Reference)
+* The main code function in this game is contours detection(See Reference)
 
 ## **Description**
 * This game have 3 levels of difficulty, Hard-Normal-Easy
@@ -42,5 +42,5 @@
 * **OpenCV**
 
 ## **Reference**
-* **Detection contours in OpenCV**
+* **Contours detection in OpenCV**
   * https://m.blog.naver.com/PostView.nhn?blogId=st8123&logNo=220326837110&proxyReferer=https:%2F%2Fwww.google.com%2F
