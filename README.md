@@ -15,7 +15,7 @@
 * This game have 3 levels of difficulty, Hard-Normal-Easy
 * The time limit varies depending on the level of difficulty
 * The game is played with a mouse click.
-* If you want more information about this project, see **[Report](https://github.com/KeunJuSong/Spot-the-difference-Game/blob/master/Embedded_Vison_11T_Report.pptx)** or **[Brainstorming](https://github.com/KeunJuSong/Spot-the-difference-Game/blob/master/11T_Project_Brainstroming.pptx)**
+* If you want more information about this project, see **[Report](https://github.com/KeunJuSong/Spot-the-difference-Game/blob/master/Embedded_Vison_11T_Report.pptx)** or **[Brainstorming](https://github.com/KeunJuSong/Spot-the-difference-Game/blob/master/11T_Project_Brainstroming.pptx)** (Both are PowerPoint Files.)
 * Source Code is **[here](https://github.com/KeunJuSong/Spot-the-difference-Game/blob/master/Term_Project_Vision/Term_Project_Vision/Vision_Term_Projects.cpp)**. 
 
 ## **Results**
